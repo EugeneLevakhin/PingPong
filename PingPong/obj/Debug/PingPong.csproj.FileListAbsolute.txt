@@ -1,0 +1,14 @@
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.exe.config
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.exe
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.pdb
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\MainWindow.g.cs
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\App.g.cs
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong_MarkupCompile.cache
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong_MarkupCompile.lref
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\MainWindow.baml
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.g.resources
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.exe
+c:\users\eugen\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.pdb
